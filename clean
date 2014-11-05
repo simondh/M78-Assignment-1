@@ -1,0 +1,2 @@
+rm temp_dist2D
+rm run_data*.csv
